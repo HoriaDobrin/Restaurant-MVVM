@@ -1,0 +1,20 @@
+﻿WpfAppTema1
+
+
+winexe
+C#
+.cs
+C:\Users\Horiacus\Desktop\TEMA MVP\WpfAppTema1\WpfAppTema1\obj\Debug\net6.0-windows\
+WpfAppTema1
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Horiacus\Desktop\TEMA MVP\WpfAppTema1\WpfAppTema1\App.xaml
+131758200680
+
+30815658367
+2081264197866
+MainWindow.xaml;Views\AddEmployeeDialog.xaml;Views\AddProductDialog.xaml;Views\AdminWindow.xaml;Views\EmployeesView.xaml;Views\LoginView.xaml;Views\OrdersView.xaml;Views\ProductsView.xaml;Views\TablesView.xaml;Views\UpdateEmployeeDialog.xaml;Views\UpdateProductDialog.xaml;Views\UsersView.xaml;Views\WaiterWindow.xaml;
+
+False
+
